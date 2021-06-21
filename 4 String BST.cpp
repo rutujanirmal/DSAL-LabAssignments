@@ -211,6 +211,7 @@ int main(){
                 cout<<"Enter New Meaning : ";
                 cin>>m1;
                 update(root,k1,m1);
+                break;
             }
             case 5:{
                 cout<<"Enter the keyword to delete :: ";
